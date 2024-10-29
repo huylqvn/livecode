@@ -4,7 +4,7 @@ type MinStack struct {
 	data []int
 }
 
-func Constructor() MinStack {
+func MinStackConstructor() MinStack {
 	return MinStack{}
 }
 
